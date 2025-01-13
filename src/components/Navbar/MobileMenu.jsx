@@ -1,6 +1,6 @@
 import React from 'react'
 import {motion, AnimatePresence, animate} from 'framer-motion';
-import { NavbarMenu } from '../mockData/data';
+import { NavbarMenu } from '../../mockData/data';
 
 const MobileMenu = ({isOpen}) => {
   return (
